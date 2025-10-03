@@ -19,3 +19,5 @@
 | Плата расширения GSM / GPRS shield SIM900 для Arduino     | 1094 ₽ | https://clck.ru/3PTrCS | Модуль GSM для передачи по мобильному интернету                                    |
 | ESP32 ESP32-S3                                            | 687 ₽  | https://clck.ru/3PTsPg | Микроконтроллер                                                                    |
 
+### Приципиальная схема
+![principial_scematic](files/image.png)
