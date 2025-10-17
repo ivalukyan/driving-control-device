@@ -222,6 +222,15 @@
     "viewports": []
   },
   "boards": [],
+  "component_class_settings": {
+    "assignments": [],
+    "meta": {
+      "version": 0
+    },
+    "sheet_component_classes": {
+      "enabled": false
+    }
+  },
   "cvpcb": {
     "equivalence_files": []
   },
@@ -581,6 +590,7 @@
       "sort_asc": true,
       "sort_field": "Reference"
     },
+    "bus_aliases": {},
     "connection_grid_size": 50.0,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
@@ -627,5 +637,11 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {},
+  "time_domain_parameters": {
+    "delay_profiles_user_defined": [],
+    "meta": {
+      "version": 0
+    }
+  }
 }
